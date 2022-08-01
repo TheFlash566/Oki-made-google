@@ -1,0 +1,338 @@
+.dem-father {
+	margin: 0px;
+}
+
+.dotman {
+	list-style: none;
+	float: right;
+	padding-right: 10px;
+	margin-top: 0px;
+	padding-top: 16px;
+}
+
+.email {
+	display: inline;
+	padding-right: 10px;
+	color: black;
+}
+
+.email:hover{
+	text-decoration: underline;
+	color: black;
+}
+
+.image {
+	display: inline;
+	color: black;
+}
+
+.image:hover{
+	text-decoration: underline;
+	color: black;
+}
+
+.candy {
+	display: inline;
+	padding-left: 20px;
+}
+
+.candy-link {
+	border: 1px solid;
+    padding-top: 13px;
+    padding-bottom: 2px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 50%;
+    border-color: transparent;
+}
+
+.user-link {
+	padding-top: 19px;
+    border-radius: 50%;
+    padding-left: 3px;
+    padding-right: 3px;
+    border: 1px solid;
+    text-decoration: none;
+    background-color: transparent;
+    border-color: transparent;
+}
+
+.user {
+	display: inline;
+	padding-left: 4px;
+}
+
+.user-image {
+	border-radius: 50%;
+}
+
+.d-content	{
+	color: white;
+    background-color: #545151;
+    padding: 1px 0px 1px 8px;
+    line-height: .1;
+    border-radius: 5px;
+    display: none;
+    width: 165px;
+    font-size: 15px;
+    margin-left: 30px;
+    margin-top: 5px;
+}
+
+.candyimg {
+	padding-bottom: 2px;
+}
+
+.cd-content {
+	display: none;
+}
+
+.candy-link:hover {
+	background-color: #EBECF0;
+	border-color: #EBECF0;
+}
+
+.user-link:hover {
+	background-color: #EBECF0;
+	border-color: #EBECF0;
+}
+
+.user:hover .d-content {
+	display: block;
+}
+
+.gugle-logo {
+width: 25%;
+margin: auto;
+padding-top: 4em;
+}
+
+.gsearch-pioneer {
+	padding-top: 1.5em;
+	width: 43%;
+	padding-left: 25em;
+}
+
+.gsearch-pion {
+	outline: 1px solid #EBECF0;
+	border-radius: 25px;
+	height: 50px;
+}
+
+.gugu-lens {
+	padding-left: 18px;
+}
+
+.gugu-mic {
+	padding-top: 16px;
+}
+
+
+.mic-dcontent {
+	padding-left: 502px;
+	visibility: hidden;
+}
+
+.gugu-mic:hover .mic-dcontent {
+	visibility: visible;
+}
+
+.triangle {
+	width: 0;
+    height: 0;
+    border-right: 5px solid transparent;
+    border-left: 5px solid transparent;
+    border-bottom: 10px solid #080707;
+    padding-top: 6px;
+   	margin-left: 45px;
+}
+
+.uyv {
+	margin-left: 6px;
+    border: 1px solid;
+    width: 77px;
+    height: 18px;
+    padding-left: 8px;
+    background-color: black;
+    color: white;
+    padding-top: 4px;
+    font-size: 12px;
+}
+
+#gsearch {
+	padding-top: 5px !important;
+	width: 87%;
+	height: 45px;
+	border-color: transparent;
+	border-radius: 10px;
+}
+
+.gsearch-pion:hover {
+	outline: 3px solid #EBECF0;
+}
+
+.gsearch:focus {
+	outline: none;
+} 
+
+.palazzo {
+	display: inline;
+}
+
+.palash {
+	display: inline;
+	margin-left: 10px;
+}
+
+.big-palazzo-palash {
+	padding-top: 1em;
+	padding-left: 32em;
+}
+
+.palazzo-palash {
+	list-style: none !important;
+}
+
+.pazopalash {
+	text-decoration: none;
+	color: black;
+	padding: 8px 14px 8px 14px;
+	background-color: ghostwhite;
+	border-radius: 4px;
+}
+
+.pazopalash:hover {
+	outline: 1px solid #EBECF0;
+	border-radius: 5px;
+}
+
+.goi-lang {
+	font-size: 14px;
+    padding-left: 36em;
+    padding-top: 2em;
+    padding-bottom: 15em;
+}
+
+.goi {
+	display: inline;
+}
+
+.hiyp {
+	display: inline;
+	padding: 0px 4px 0px 4px;
+}
+
+.hiyp1 {
+	text-decoration: none;
+}
+
+.hiyp1:hover {
+	text-decoration: underline;
+}
+
+.country {
+	padding-top: 2px;
+    background-color: #F0F0F0;
+    padding-bottom: 2px;
+    padding-left: 25px;
+    border-bottom: 1px solid #A7AFB2;
+}
+
+.info {
+	background-color: #F0F0F0;
+	padding-top: 18px;
+	padding-bottom: 18px;
+	margin-top: 0px !important;
+	margin-bottom: 0px !important;
+	padding-left: 28px;
+}
+.info-sm {
+	display: inline;
+}
+
+.info-sm-1 {
+	padding-right: 28px;
+	text-decoration: none;
+	color: black;
+}
+
+.info-sm-1:hover {
+	text-decoration: underline;
+}
+
+.info-sm-2 {
+	padding-right: 28px;
+	text-decoration: none;
+	color: black;
+}
+
+.info-sm-2:hover {
+	text-decoration: underline;
+}
+
+.info-sm-3 {
+	padding-right: 28px;
+	text-decoration: none;
+	color: black;
+}
+
+.info-sm-3:hover {
+	text-decoration: underline;
+}
+
+.info-sm-4 {
+	padding-right: 200px;
+	text-decoration: none;
+	color: black;
+}
+
+.info-sm-4:hover {
+	text-decoration: underline;
+}
+
+.info-sm-5 {
+	padding-right: 300px;
+	text-decoration: none;
+	color: black;
+}
+
+.info-sm-5:hover {
+	text-decoration: underline;
+}
+
+.info-sm-6 {
+	padding-right: 30px;
+	text-decoration: none;
+	color: black;
+}
+
+.info-sm-6:hover {
+	text-decoration: underline;
+}
+
+.info-sm-7 {
+	padding-right: 30px;
+	text-decoration: none;
+	color: black;
+}
+
+.info-sm-7:hover {
+	text-decoration: underline;
+}
+
+.info-sm-8 {
+	text-decoration: none;
+	color: black;
+}
+
+.info-sm-8:hover {
+	text-decoration: underline;
+}
+
+.gacct {
+	margin-top: 12px;
+}
+
+.mkbabs {
+	margin-bottom: 12px;
+}
